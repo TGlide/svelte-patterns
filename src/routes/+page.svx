@@ -1,5 +1,0 @@
-# Title
-
-```js
-import { onMount } from 'svelte';
-```

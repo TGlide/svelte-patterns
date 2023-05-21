@@ -1,1 +1,1 @@
-<h1 class="text-xl text-red-500"><slot />aaa</h1>
+<h1 class="mb-2 text-4xl font-bold"><slot /></h1>

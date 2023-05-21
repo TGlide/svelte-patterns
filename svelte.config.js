@@ -13,7 +13,7 @@ const config = {
 			postcss: true
 		}),
 		mdsvex({
-			extensions: ['.md', '.svx'],
+			extensions: ['.md'],
 			layout: {
 				_: './src/lib/mdsvex/layout.svelte'
 			}
@@ -29,7 +29,7 @@ const config = {
 			$lib: './src/lib'
 		}
 	},
-	extensions: ['.svelte', '.md', '.svx']
+	extensions: ['.svelte', '.md']
 };
 
 export default config;
